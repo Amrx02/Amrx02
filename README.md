@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amrx02
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning CyberSecurity
+- 🌱 I’m currently Learning React.js
 - 📫 How to reach me : amr.mousaahmed12@gmail.com
 - 😄 Pronouns: He/him
 
