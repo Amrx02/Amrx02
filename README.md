@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amrx02
+- 👋 Hi, I’m Amr Moussa Ahmed
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently Learning React.js
 - 📫 How to reach me : amr.mousaahmed12@gmail.com
